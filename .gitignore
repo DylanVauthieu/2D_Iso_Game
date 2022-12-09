@@ -1,8 +1,9 @@
-#Useless files
+#? Useless files
 Library
 Logs
 Packages
+Temp
 
-#Settings
+#! Settings
 UserSettings
 ProjectSettings
